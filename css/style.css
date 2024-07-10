@@ -6,14 +6,14 @@
 
 }
 body{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 115%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1em;
 }
 nav{
-    background-color: aqua;
+    background-color: peru;
 }
 header{
-    background-color:light-gray;
+    background-color:lightskyblue;
 }
 nav ul{
     margin-left: 2em;
@@ -30,16 +30,18 @@ nav a{
     display: inline;
 }
 header h1{
-    font-family:  'Gill Sans MT',  sans-serif; color: darkslateblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     color: peru;
     text-align: center;
+    color: darkblue;
     
 }
 main{
-    background-color: yellow;
+    background-color: peru;
     font-size: 1em;
 }
 footer{
-    background-color: lightgray;
+    background-color: lightskyblue;
     padding:1em;
     margin-top: 10px;
 
